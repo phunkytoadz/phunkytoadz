@@ -22,7 +22,7 @@ The PhunkyToadz wanted to leave the foul stench of the bloody swamp and Gremplin
 
 # What is Avalanche C Chain
 
-Avalanche is a Layer 1 with an EVM chain - this means lower fees than ethereum, better environtmental impact for better !vibes, it is decentralized and secured by validators, who don't judge if you look right or !croak when you want. You can use Metamask by adding the avlanche network and bridge your ETH, USDT, USDC here. You will use the same wallet and address as Ethereum, or you can create a new wallet. 
+Avalanche is a Layer 1 with an EVM chain - this means lower fees than ethereum, better environtmental impact for better !vibes, it is decentralized and secured by validators, who don't judge if you look right or !croak when you want. You can use Metamask by adding the Avalanche network and bridge your ETH, USDT, USDC here. You will use the same wallet and address as Ethereum, or you can create a new wallet. 
 
 # How do I mint?
 
