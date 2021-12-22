@@ -28,11 +28,36 @@ Avalanche is a Layer 1 with an EVM chain - this means lower fees than ethereum, 
 
 The PhunkyToadz are available for mint as soon as the ships hit the coast and the phunky toadz land in avalanche's green swamp. (TBD)
 
-You will go to www.phunkytoadz.com 
-Connect wallet
-Make sure it is on avalanche chain with AVAX for gas and minting
-Cost for mint is 1 AVAX
-Limit 10 PhunkyToadz per transaction.
+* Go to www.phunkytoadz.com 
+* Connect wallet
+* Make sure it is on avalanche chain with AVAX for gas and minting - [Guide](https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche)
+* Cost for mint is 1 AVAX
+* Limit 10 PhunkyToadz per transaction
+
+# Bridging from Ethereum
+
+If you have ETH but have never used avalanche, these are the steps you will take, with links
+
+* Visit the [Avalanche Bridge](https://bridge.avax.network/)
+* Choose ETH as your currency, From Ethereum to Avalanche as your network
+
+<img width="490" alt="Screen Shot 2021-12-22 at 9 05 51 AM" src="https://user-images.githubusercontent.com/96514988/147129316-d0b9a489-1178-4cf4-b940-0ea1155b72bf.png">
+
+* Click Transfer - this process will take 5-10 minutes
+* Go to [Trader Joe](https://traderjoexyz.com/#/trade?inputCurrency=0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab&outputCurrency=0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7) to swap your ETH for AVAX
+* Connect Wallet on Top Right
+* It will pop up saying wrong network, switch to Avalanche, click Contintue and it will add the Avalanche EVM Network
+
+<img width="421" alt="Screen Shot 2021-12-22 at 9 07 32 AM" src="https://user-images.githubusercontent.com/96514988/147129685-89e501d4-e67a-4ff4-8794-d4e0f89db8aa.png">
+
+* The bridge gives you a small amount of AVAX as gas, but you want to use that to swap your ETH for more AVAX
+* Enter how much ETH (labeled as WETH.e) as input, and AVAX as output
+
+<img width="407" alt="Screen Shot 2021-12-22 at 9 07 15 AM" src="https://user-images.githubusercontent.com/96514988/147129796-b52b4e75-efb3-410e-9b76-4f5b7d79afff.png">
+
+* Swap (on Avalanche you can use default gas settings, transactions should take a few seconds)
+* Verify you now have AVAX in your Metemask account and proceed to !mint
+
 
 # Toadmap?
 
