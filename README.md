@@ -45,5 +45,6 @@ If you missed the PhunkyToadz mint, you will be able to buy and sell on Kalao. C
 
 CC0 / good !vibes only / face right frens / original face left art by Gremplin - CC0
 
-![powered-avalanche 39f98d19](https://user-images.githubusercontent.com/96514988/147050012-89aa5f90-b3a1-41b2-93a8-e52205d59bd6.png)
+![88x31](https://user-images.githubusercontent.com/96514988/147050178-6059d9e0-daa4-4243-b35f-43b7d924510a.png)
+![11powered-avalanche 39f98d19](https://user-images.githubusercontent.com/96514988/147050193-bd9179a9-65e1-4ceb-ba47-00926df33d92.png)
 
