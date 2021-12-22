@@ -65,7 +65,7 @@ Unlike the wretched swamp of Ethereum, the green swamp of Avalanche promises a b
 
 Around the seasonal holidays and solstices are when big events come to pass for this group of amphibians. 
 
-Each holder of PhunkyToadz will be eligible to mint their 3D Toad for .5 Avax, and then an open mint for the remainining 3D Toadz at 1 AVAX.
+Each holder of PhunkyToadz will be eligible to mint airdrops and related drops for discounted rates.
 
 There are rumors this castaway group of amphibians may even go underwater and raid or reinforce their brother crustaceons below.
 
