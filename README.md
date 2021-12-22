@@ -89,3 +89,6 @@ CC0 / good !vibes only / face right frens / original face left art by Gremplin -
 
 ![11powered-avalanche 39f98d19](https://user-images.githubusercontent.com/96514988/147050193-bd9179a9-65e1-4ceb-ba47-00926df33d92.png)
 
+Thank you and !croak
+
+-ZeroSum
