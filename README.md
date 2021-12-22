@@ -43,6 +43,7 @@ There are rumors this castaway group of amphibians may even go underwater and ra
 If you missed the PhunkyToadz mint, you will be able to buy and sell on Kalao. Contract address ___ and Link to be updated on launch. PhunkyToadz is in contact with Kalao to be verified prior to mint to prevent spam. 
 
 
-CC0 / good !vibes only / face right frens
+CC0 / good !vibes only / face right frens / original face left art by Gremplin - CC0
 
+![powered-avalanche 39f98d19](https://user-images.githubusercontent.com/96514988/147049002-e78f6257-bd56-459e-b5e7-68a63a251ed6.png)
 
