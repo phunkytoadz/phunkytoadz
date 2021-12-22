@@ -1,4 +1,4 @@
-### !croak 🐸
+![](https://user-images.githubusercontent.com/96514988/147049544-4477ae4b-3ed6-40c7-8f1d-7d59612fbd61.png  | width=200)
 
 # Lore
 
@@ -45,5 +45,5 @@ If you missed the PhunkyToadz mint, you will be able to buy and sell on Kalao. C
 
 CC0 / good !vibes only / face right frens / original face left art by Gremplin - CC0
 
-![powered-avalanche 39f98d19](https://user-images.githubusercontent.com/96514988/147049002-e78f6257-bd56-459e-b5e7-68a63a251ed6.png)
+![powered-avalanche 39f98d19](https://user-images.githubusercontent.com/96514988/147049002-e78f6257-bd56-459e-b5e7-68a63a251ed6.png  | width=100)
 
