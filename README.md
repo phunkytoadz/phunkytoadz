@@ -20,6 +20,13 @@ With every stab the freedom to look right was realized. and on that longest nigh
 
 The PhunkyToadz wanted to leave the foul stench of the bloody swamp and Gremplin's festering carcass with high fees, so they boarded an armada of Phunky Ships and sailed right... to greener swamps, swamps with far lower fees, swamps with a bit of snow, and the freedom to look right.
 
+# Punk Phunks Toadz PhunkyToadz!!!
+
+CryptoPunks are the original NFT collection on ethereum with 10,000 generated avatars. They were free to claim in 2017, and now are worth hundreds of thousands of dollars.  Early in 2021, Bored Ape Yacht Club introduced commercial rights when you owned each NFT. Furthering this trend in 2021, CrypToadz and Nouns rocked the world with CC0 - creative commons open license so anyone could use the art for free ad infinitum. Larvalabs continued to sue and DMCA companies that used their likeness, but PHUNKS were created as a CC0 version of Punks, and gave the signature reverse looking style. 
+
+PhunkyToadz follows in the lineage of Punks, BAYC, Phunks, CrypToadz in the lineage of Copyright evolution in the world of NFTS, PhunkyToadz brings the creative commons cross chain, as the future of blockhain expands away from Ethereum to new chains and layers.
+
+
 # What is Avalanche C Chain
 
 Avalanche is a Layer 1 with an EVM chain - this means lower fees than ethereum, better environtmental impact for better !vibes, it is decentralized and secured by validators, who don't judge if you look right or !croak when you want. You can use Metamask by adding the Avalanche network and bridge your ETH, USDT, USDC here. You will use the same wallet and address as Ethereum, or you can create a new wallet. 
