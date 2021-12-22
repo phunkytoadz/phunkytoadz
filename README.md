@@ -1,5 +1,11 @@
 ![rightsmall](https://user-images.githubusercontent.com/96514988/147126941-e63c06db-7c28-4acc-8d3b-2ba25e2bd2e9.png)
 
+### Language
+
+* 🇺🇸 [English](https://github.com/phunkytoadz/phunkytoadz/blob/main/README.md)
+* 🇹🇷 [Turkish](https://github.com/phunkytoadz/phunkytoadz/blob/main/TURKISH.md)
+
+
 # Lore
 
 For centuries, the toadz in King Gremplin's swamp lived in peace. All was a good !vibe, the only sounds heard the !croak of the toadz, the soft wind in the stink air, the swamp water lapping on the lilypad. Whispers grew of a new way to approach the world, a revolution of the mind, a new paradigm.... but King Gremplin was not pleased. 
