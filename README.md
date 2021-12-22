@@ -1,4 +1,4 @@
-![gg1unnamed](https://user-images.githubusercontent.com/96514988/147049907-b720463c-c878-4c5c-96f4-dbd6c2e07dba.png)
+![rightsmall](https://user-images.githubusercontent.com/96514988/147126941-e63c06db-7c28-4acc-8d3b-2ba25e2bd2e9.png)
 
 # Lore
 
