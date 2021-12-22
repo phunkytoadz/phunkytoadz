@@ -39,8 +39,6 @@ Berbat haldeki Ethereum bataklığının aksine, yemyeşil Avalanche bataklığ�
 
 Bu bataklıkta bu kurbağa grubu için en önemli ve büyük etkinliklerin gerçekleştiği mevsim tatilleri ve gündönümleri bulunmaktadır. 
 
-PhunkyToadz sahibi her kişi, 3D Toad'larını 0,5 Avax karşılığında basmaya ve ardından kalan 3D Toadz için 1 AVAX ücrete açık şekilde para basma hakkına sahip olacaktır.
-
 Bu kıyıya vurmuş kurbağa grubunun su altına bile girip aşağıdaki kabuklu kardeşlerine baskın yapabileceği veya onlara destek olabileceğine dair gizli söylentiler var.
 
 # Secondary
