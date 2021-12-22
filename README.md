@@ -21,7 +21,7 @@ With every stab the freedom to look right was realized. and on that longest nigh
 The PhunkyToadz wanted to leave the foul stench of the bloody swamp and Gremplin's festering carcass with high fees, so they boarded an armada of Phunky Ships and sailed right... to greener swamps, swamps with far lower fees, swamps with a bit of snow, and the freedom to look right.
 
 
-# Punk Phunks Toadz PhunkyToadz!!!
+# Punks, Phunks, Toadz, & PhunkyToadz!!!
 
 CryptoPunks are the original NFT collection on ethereum with 10,000 generated avatars. They were free to claim in 2017, and now are worth hundreds of thousands of dollars.  Early in 2021, Bored Ape Yacht Club introduced commercial rights when you owned each NFT. Furthering this trend in 2021, CrypToadz and Nouns rocked the world with CC0 - creative commons open license so anyone could use the art for free ad infinitum. Larvalabs continued to sue and DMCA companies that used their likeness, but PHUNKS were created as a CC0 version of Punks, and gave the signature reverse looking style. 
 
