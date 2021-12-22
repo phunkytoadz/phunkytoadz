@@ -37,7 +37,7 @@ The PhunkyToadz are available for mint as soon as the ships hit the coast and th
 * Make sure it is on avalanche chain with AVAX for gas and minting - [Guide](https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche)
 * Cost for mint is 1 AVAX
 * Limit 10 PhunkyToadz per transaction
-* 
+
 # What is Avalanche C Chain
 
 Avalanche is a Layer 1 with an EVM chain - this means lower fees than ethereum, better environtmental impact for better !vibes, it is decentralized and secured by validators, who don't judge if you look right or !croak when you want. You can use Metamask by adding the Avalanche network and bridge your ETH, USDT, USDC here. You will use the same wallet and address as Ethereum, or you can create a new wallet. 
