@@ -5,7 +5,7 @@
 * 🇺🇸 [English](https://github.com/phunkytoadz/phunkytoadz/blob/main/README.md)
 * 🇹🇷 [Turkish](https://github.com/phunkytoadz/phunkytoadz/blob/main/TURKISH.md)
 
-# Lore
+# Folklor
 
 Kurbağalar, yüzyıllar boyunca Kral Gremplin'in bataklığında huzur içinde yaşıyorlardı. Herkes ve her şey güzel bir !vibe içindeydi, etrafta sadece kurbağaların !croak deyişleri duyulabiliyordu, kokuşmuş havadaki yumuşak rüzgar, nilüfer yapraklarına vuran bataklık suyuyla ahenk içinde dans ediyordu. Ancak fısıltıların arasından yeni bir dünya görüşü, yeni bir devrim zihniyeti, yeni bir paradigma doğdu.... fakat bu Kral Gremplin’in hiç hoşuna gitmedi. 
 
