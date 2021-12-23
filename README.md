@@ -1,5 +1,31 @@
 ![rightsmall](https://user-images.githubusercontent.com/96514988/147126941-e63c06db-7c28-4acc-8d3b-2ba25e2bd2e9.png)
 
+"We sail away! Away we sail!  
+On to the right! No more we wail!  
+The Evil Gremplin now is dead!  
+Vanquished is his reign of dread!  
+
+King Gremplin stood upon his pad,  
+“You only shall face left,” he said.  
+We longed to turn, look to the right!  
+But this we dared not do for fright.  
+
+Then on the Winter Solstice feast,  
+A plan was hatched! Our rage increased!  
+An avalanche of chocolate bars,  
+Fed to the king, that gluttonous tsar!  
+
+He gulped it down, he gulped it all,  
+Then fell asleep, his snores did call.  
+We slew him quick, we spilled his blood,  
+We let him fall into the mud.
+
+Then once this grisly task was done,  
+We all united, and as one,  
+We climbed on board this Phunky Ship,  
+For greener swamps, we take this trip!"
+
+
 ### Language
 
 * 🇺🇸 [English](https://github.com/phunkytoadz/phunkytoadz/blob/main/README.md)
