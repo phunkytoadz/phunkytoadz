@@ -5,6 +5,34 @@
 * 🇺🇸 [English](https://github.com/phunkytoadz/phunkytoadz/blob/main/README.md)
 * 🇹🇷 [Turkish](https://github.com/phunkytoadz/phunkytoadz/blob/main/TURKISH.md)
 
+# bataklığın şarkısı
+
+Yelkenler fora, yelkenler fora  
+Gam yok keder yok gidiyoruz sağa  
+Kötü Gremplin artık yok  
+Bitti hükümdarlığı özgürlük çok  
+
+Kral Gremplin bütün gün otururdu tahtında  
+Derdi ki "Sola dönün sola."  
+Çok istedik hep bakmak sağa  
+İçimiz korkuyla doluydu ama  
+
+Sonra geldi çattı Kış dönümü ziyafeti  
+Bir plan yapıldı kurtaracak herkesi  
+Çığ gibi gelen çikolatalar mest etti  
+Pis boğaz kral Gremplin'i  
+
+Lüpür lüpür indirdi çikolataları mideye  
+Sonra başladı horul horul inlemeye  
+Döndürüp akıttık kanını uğradı dumura  
+Bıraktık bedenini zulüm çektirdiği o çamura  
+
+Görev bitti başarıyla  
+Hepimiz geldik yine bir araya  
+Atladık Phunky Gemisine ve  
+Kadeh kaldırdık daha yeşil bataklıklara!  
+
+
 # Folklor
 
 Kurbağalar, yüzyıllar boyunca Kral Gremplin'in bataklığında huzur içinde yaşıyorlardı. Herkes ve her şey güzel bir !vibe içindeydi, etrafta sadece kurbağaların !croak deyişleri duyulabiliyordu, kokuşmuş havadaki yumuşak rüzgar, nilüfer yapraklarına vuran bataklık suyuyla ahenk içinde dans ediyordu. Ancak fısıltıların arasından yeni bir dünya görüşü, yeni bir devrim zihniyeti, yeni bir paradigma doğdu.... fakat bu Kral Gremplin’in hiç hoşuna gitmedi. 
@@ -40,6 +68,13 @@ Berbat haldeki Ethereum bataklığının aksine, yemyeşil Avalanche bataklığ�
 Bu bataklıkta bu kurbağa grubu için en önemli ve büyük etkinliklerin gerçekleştiği mevsim tatilleri ve gündönümleri bulunmaktadır. 
 
 Bu kıyıya vurmuş kurbağa grubunun su altına bile girip aşağıdaki kabuklu kardeşlerine baskın yapabileceği veya onlara destek olabileceğine dair gizli söylentiler var.
+
+# Punks, Phunks, Toadz, PhunkyToadz!!
+
+CryptoPunks, Ethereum’da oluşturulan 10.000 adet avatara sahip original bir NFT koleksiyonudur. 2017’de bu koleksiyonları almak ücretsizdi fakat şimdilerde yüz binlerce dolar değerindeler. 2021’in başlarında Bored Ape Yacht Club, NFT’ye sahip olmaya yönelik bazı ticari haklar getirdi. 2021’in ilerleyen aylarında bu yeni trendi daha da geliştiren CrypToadz ve Nouns, CC0 – creative commons, açık lisans ile dünyayı sarsan bir şey gerçekleştirdi ve böylece herkes sanatı ücretsiz olarak sonsuza kadar kullanabilir hale geldi. Larvalabs, benzerliğini kullanan DMCA şirketlerine dava açmaya devam etti ancak PHUNKS, Punks’ın CC0 versiyonu olarak kuruldu ve imzaya ters görünümlü bir stil verdi.
+
+PhunkyToadz, NFTS dünyasındaki Telif Hakkı evriminde Punks, BAYC, Phunks, CrypToadz ile aynı aile içerisindedir. PhunkyToadz blokzincirin geleceği Ethereum’dan yeni zincirlere ve katmanlara doğru genişledikçe ‘creative commons’ çapraz zincirini piyasaya getiriyor.
+
 
 # Secondary
 
