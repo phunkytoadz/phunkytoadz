@@ -61,8 +61,8 @@ The PhunkyToadz are available for mint as soon as the ships hit the coast and th
 * Go to www.phunkytoadz.com 
 * Connect wallet
 * Make sure it is on avalanche chain with AVAX for gas and minting - [Guide](https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche)
-* Cost for mint is 1 AVAX
-* Limit 10 PhunkyToadz per transaction
+* Cost for mint is 0.25 AVAX
+* Limit 30 PhunkyToadz per transaction
 
 # What is Avalanche C Chain
 
