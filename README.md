@@ -34,6 +34,9 @@ For greener swamps, we take this trip!"
 
 # Lore
 
+[![Screen Shot 2021-12-29 at 9 26 59 PM](https://user-images.githubusercontent.com/96514988/147724091-3ce3c732-381c-42d9-8c65-fa3ac0c4a20e.png)](https://www.youtube.com/watch?v=e55ug76ZIDI)
+
+
 For centuries, the toadz in King Gremplin's swamp lived in peace. All was a good !vibe, the only sounds heard the !croak of the toadz, the soft wind in the stink air, the swamp water lapping on the lilypad. Whispers grew of a new way to approach the world, a revolution of the mind, a new paradigm.... but King Gremplin was not pleased. 
 
 He demanded with his iron fist that all toadz under his swamp must face left, and any who disobeyed would face swift punishment.
