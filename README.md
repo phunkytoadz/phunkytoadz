@@ -61,7 +61,7 @@ PhunkyToadz follows in the lineage of Punks, BAYC, Phunks, CrypToadz in the line
 
 The PhunkyToadz are available for mint as soon as the ships hit the coast and the phunky toadz land in avalanche's green swamp. (TBD)
 
-* Go to www.phunkytoadz.com 
+* Go to [phunkytoadz.com](https://phunkytoadz.com/)
 * Connect wallet
 * Make sure it is on avalanche chain with AVAX for gas and minting - [Guide](https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche)
 * Cost for mint is 0.25 AVAX
