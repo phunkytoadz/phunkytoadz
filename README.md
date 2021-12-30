@@ -72,7 +72,7 @@ Each holder of PhunkyToadz will be eligible to mint airdrops and related drops f
 
 # Secondary
 
-If you missed the PhunkyToadz mint, you will be able to buy and sell on OpenSea. Contract address [xxxxxx](#) and [OpenSea Collection](#). 
+If you missed the PhunkyToadz mint, you will be able to buy and sell on OpenSea. Contract address [https://etherscan.io/token/0xdc504edbe8e7ce4dc59dd1c3f72720c699557a5b](0xdc504edbe8e7ce4dc59dd1c3f72720c699557a5b) and [OpenSea Collection](https://opensea.io/collection/phunky-toadz). 
 
 
 CC0 / good !vibes only / face right frens / original face left art by Gremplin - CC0
