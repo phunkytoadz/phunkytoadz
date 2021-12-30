@@ -106,7 +106,7 @@ There are rumors this castaway group of amphibians may even go underwater and ra
 
 # Secondary
 
-If you missed the PhunkyToadz mint, you will be able to buy and sell on Kalao. Contract address ___ and Link to be updated on launch. PhunkyToadz is in contact with Kalao to be verified prior to mint to prevent fake collections. 
+If you missed the PhunkyToadz mint, you will be able to buy and sell on Kalao. Contract address [0x6732e0c765e40b97b50c89992816f9e57de54a3f](https://snowtrace.io/address/0x6732e0c765e40b97b50c89992816f9e57de54a3f) and [Kalao Collection](https://marketplace.kalao.io/collection/0x6732e0c765e40b97b50c89992816f9e57de54a3f). PhunkyToadz is in contact with Kalao to be verified prior to mint to prevent fake collections. 
 
 
 CC0 / good !vibes only / face right frens / original face left art by Gremplin - CC0
