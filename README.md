@@ -61,6 +61,17 @@ The PhunkyToadz are available for mint on Dec 30, 2021
 * Limit 30 PhunkyToadz per transaction
 * If you get a large gas number and contract error warning, it means minting is not open, wait until reasonable gas
 
+# Toad Claim
+
+The PhunkyToadz are available for mint on Dec 30, 2021
+
+* Go to [Contract](https://etherscan.io/token/0xdc504edbe8e7ce4dc59dd1c3f72720c699557a5b#writeContract)
+* Connect Web 3 (That holds toadz)
+* 3. Mintfreefortoadowner
+* Enter ID of Toad in wallet
+* Write (one at a time)
+
+![Screen Shot 2021-12-30 at 1 55 24 PM](https://user-images.githubusercontent.com/96514988/147790555-7680ba4c-68d1-4cf5-ab76-f78eadc1d897.png)
 
 
 # Toadmap?
