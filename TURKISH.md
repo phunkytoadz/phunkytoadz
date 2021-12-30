@@ -35,6 +35,9 @@ Kadeh kaldırdık daha yeşil bataklıklara!
 
 # Folklor
 
+[![Screen Shot 2021-12-29 at 9 26 59 PM](https://user-images.githubusercontent.com/96514988/147724091-3ce3c732-381c-42d9-8c65-fa3ac0c4a20e.png)](https://www.youtube.com/watch?v=e55ug76ZIDI)
+
+
 Kurbağalar, yüzyıllar boyunca Kral Gremplin'in bataklığında huzur içinde yaşıyorlardı. Herkes ve her şey güzel bir !vibe içindeydi, etrafta sadece kurbağaların !croak deyişleri duyulabiliyordu, kokuşmuş havadaki yumuşak rüzgar, nilüfer yapraklarına vuran bataklık suyuyla ahenk içinde dans ediyordu. Ancak fısıltıların arasından yeni bir dünya görüşü, yeni bir devrim zihniyeti, yeni bir paradigma doğdu.... fakat bu Kral Gremplin’in hiç hoşuna gitmedi. 
 
 Demir yumruğunu masaya vurarak bataklığında yaşayan tüm kurbağaların sola dönmesini ve itaat etmeyenlerin derhal cezalandırılmasını istedi.
