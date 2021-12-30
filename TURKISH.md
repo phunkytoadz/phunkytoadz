@@ -58,8 +58,8 @@ PhunkyToadz, gemiler kıyıya vurur vurmaz ve hantal kurbağalar Avalanche’ın
 www.phunkytoadz.com adresine gidin. 
 Cüzdanı bağla
 Para basma ve gas için AVAX ile avalanche zincirinde olduğundan emin olun
-Para basma maliyeti 1 AVAX
-Her işlem başına 10 PhunkyToadz ile sınırlayın.
+Para basma maliyeti 0.25 AVAX
+Her işlem başına 30 PhunkyToadz ile sınırlayın.
 
 # Toadmap?
 
