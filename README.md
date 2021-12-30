@@ -67,6 +67,21 @@ The PhunkyToadz are available for mint as soon as the ships hit the coast and th
 * Cost for mint is 0.25 AVAX
 * Limit 30 PhunkyToadz per transaction
 
+
+# How do I free claim, if you hold Toadz?
+
+Toadz Holders were snapshot on Dec 30 7AM Turkey. 
+
+* Go to Contract - https://snowtrace.io/address/0x6732e0c765e40b97b50c89992816f9e57de54a3f#writeContract
+* Connect web 3
+* Make sure it is on avalanche chain with AVAX for gas and minting - [Guide](https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche)
+* Go to 4 - mintForETHToadsFree
+* Enter your Toad Id (from mainnet eth, one at a time)
+* Write
+
+![Screen Shot 2021-12-29 at 9 36 52 PM](https://user-images.githubusercontent.com/96514988/147724618-d416e6a5-c540-4963-8897-16a9e23c7938.png)
+
+
 # What is Avalanche C Chain
 
 Avalanche is a Layer 1 with an EVM chain - this means lower fees than ethereum, better environtmental impact for better !vibes, it is decentralized and secured by validators, who don't judge if you look right or !croak when you want. You can use Metamask by adding the Avalanche network and bridge your ETH, USDT, USDC here. You will use the same wallet and address as Ethereum, or you can create a new wallet. 
